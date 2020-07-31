@@ -1,0 +1,4 @@
+[05-Nov-2019 20:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/salomondesign/public_html/weirdlife/wp-content/themes/weirdlife/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/salomondesign/public_html/weirdlife/wp-content/themes/weirdlife/about.php on line 6
